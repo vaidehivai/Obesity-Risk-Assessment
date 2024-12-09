@@ -39,4 +39,4 @@ Open and execute the `Obesity_Predictions.ipynb` Jupyter Notebook cell by cell t
 
 ---
 
-### [Video Demo]() To Be Made
+### [Video Demo](https://drive.google.com/file/d/1y_ISNrT-JexQxDtGrz7GYBYa7mmO5BcC/view?usp=sharing)
